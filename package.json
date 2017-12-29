@@ -1,0 +1,28 @@
+{
+  "name": "codeforces_client",
+  "version": "0.0.1",
+  "description": "A command line interface for codeforces using codeforces api",
+  "main": "cfcli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dl8sd11/codeforces_client.git"
+  },
+  "keywords": [
+    "codeforces"
+  ],
+  "author": "ToMmyDong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dl8sd11/codeforces_client/issues"
+  },
+  "homepage": "https://github.com/dl8sd11/codeforces_client#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.12.2",
+    "inquirer": "^4.0.1",
+    "request": "^2.83.0"
+  }
+}
