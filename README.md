@@ -1,11 +1,12 @@
 # codeforces_client
 A command line interface for codeforces using codeforces api
 
-##install
+## install
+>you might need root permission
 ```
 npm install -g
 ```
->you might need root permission
+
 
 ```
 Usage: cfcli [options]
